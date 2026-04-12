@@ -14,7 +14,7 @@ GROQ_MODEL_EVAL   = "llama-3.3-70b-versatile"    # evaluation experiments only
 GROQ_VISION_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"  # image understanding (FREE, replaces decommissioned 90b-vision)
 GROQ_WHISPER_MODEL = "whisper-large-v3-turbo"     # voice transcription (FREE)
 
-HF_EMOTION_MODEL = "SoumyaCodes/raven-emotion-distilbert"  # Fine-tuned DistilBERT — 97.62%
+HF_EMOTION_MODEL = "Fynman-stack/raven-emotion-distilbert"  # Fine-tuned DistilBERT — 97.62%
 
 # ── Emotions & personas ───────────────────────────────────────────────────────
 EMOTIONS = ["happy", "sad", "anxious", "angry", "confused", "neutral"]
